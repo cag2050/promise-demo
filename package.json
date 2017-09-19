@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cag2050/promise-demo/issues"
   },
-  "homepage": "https://github.com/cag2050/promise-demo#readme"
+  "homepage": "https://github.com/cag2050/promise-demo#readme",
+  "devDependencies": {
+    "es6-promise-try": "^1.0.2"
+  }
 }
